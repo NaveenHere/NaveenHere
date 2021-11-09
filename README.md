@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @NaveenHere
-- 👀 I’m interested in Web Designing and Web Developement.
-- 🌱 I’m currently learning Web Developement(HTML,CSS).
+- 👋 Hi, I’m @NaveenDas
+- 👀 I love drawing and designing. So, i found my passion in Web Designing and Developement.
+- 🌱 I’m currently learning new languages, technologies and tools like HTML, CSS, SASS, Github, Figma, etc.
+- And i have basic knowlegde of Digital Marketing also.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
