@@ -11,3 +11,4 @@
 ![github](https://user-images.githubusercontent.com/85273777/141689596-51c0d074-9aac-4d89-867a-4146ea769653.png)
 ![figma](https://user-images.githubusercontent.com/85273777/141689615-720fa2d0-f87f-4a49-9e98-b0ac34511474.png)
 ![digital marketing](https://user-images.githubusercontent.com/85273777/141689619-fbc853dc-9a2e-4472-9d76-de7553515929.png)
+https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg
