@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new languages, technologies and tools like HTML, CSS, SASS, Github, Figma, etc.
 - And i have basic knowlegde of Digital Marketing also.
 
-<!---
-NaveenHere/NaveenHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Languages and Tools:-
+![html](https://user-images.githubusercontent.com/85273777/141689511-fcb097e6-294f-42ad-a4d3-c0fa4e4d4605.png)
+![css](https://user-images.githubusercontent.com/85273777/141689528-5f2e9d2a-6965-470c-bcec-aa46be5ef443.png)
+![sass](https://user-images.githubusercontent.com/85273777/141689553-cd79ee91-69b6-423d-bbae-c05c3198fd48.png)
