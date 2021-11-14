@@ -11,4 +11,3 @@
 ![github](https://user-images.githubusercontent.com/85273777/141689596-51c0d074-9aac-4d89-867a-4146ea769653.png)
 ![figma](https://user-images.githubusercontent.com/85273777/141689615-720fa2d0-f87f-4a49-9e98-b0ac34511474.png)
 ![digital marketing](https://user-images.githubusercontent.com/85273777/141689619-fbc853dc-9a2e-4472-9d76-de7553515929.png)
-![svg1](https://user-images.githubusercontent.com/85273777/141690253-a31d4f06-91f8-4c8b-9439-c7965275af6b.png)
