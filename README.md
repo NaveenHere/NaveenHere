@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/85273777/141690898-2a362ecc-97ce-4ede-b193-d3c5e6254831.png)
 - 👀 I love drawing and designing. So, i found my passion in Web Designing and Developement.
-- 🌱 I’m currently learning new languages, technologies and tools like HTML, CSS, SASS, Github, Figma, etc.
+- 🌱 I’m currently learning new languages, technologies and tools like HTML5, CSS3, SASS, Github, Figma, etc.
 - And i have basic knowlegde of Digital Marketing also.
 - Languages and Tools:-
 
