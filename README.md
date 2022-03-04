@@ -1,5 +1,3 @@
-![wallpaper-port](https://user-images.githubusercontent.com/85273777/156832971-44a04fe5-3482-4e75-859f-e35ef2047b15.png)
-
 - 👀 I love drawing and designing. So, i found my passion in Web Designing and Developement.
 - 🌱 I’m currently learning new languages, technologies and tools like HTML5, CSS3, SASS, Github, Figma, etc.
 - And i have basic knowlegde of Digital Marketing also.
